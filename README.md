@@ -1,7 +1,7 @@
 I m Furkan and I want to improve myself about Computer and Computer Languages..
 
 - 👋 Hi, I’m @Furkan2001
-- 👀 I’m interested in C and C++
+- 👀 I’m interested in C, C++ and Java
 - 🌱 I’m currently studying at Gebze Techincal University
 - 📫 How to reach me: https://tr.linkedin.com/in/furkan-ekinci-a21638232?trk=people-guest_people_search-card
 
