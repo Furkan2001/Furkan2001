@@ -1,6 +1,6 @@
 I m Furkan and I want to improve myself about Computer and Computer Languages..
 
-- 👋 Hi, I’m @Furkan2001
+- 👋 Hi, I’m Furkan
 - 👀 I am interested in C, C++,Php(Laravel), Javascript and Java
 - 🌱 I am currently studying at Gebze Techincal University
 - 🎯 I have worked in Hesap Doktoru as volunteer intern
