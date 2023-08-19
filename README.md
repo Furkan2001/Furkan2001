@@ -1,7 +1,7 @@
 I m Furkan and I want to improve myself about Computer and Computer Languages..
 
 - 👋 Hi, I’m @Furkan2001
-- 👀 I am interested in C, C++ and Java
+- 👀 I am interested in C, C++,Php(Laravel), Javascript and Java
 - 🌱 I am currently studying at Gebze Techincal University
 - 🎯 I have been solving question on LeetCode... https://leetcode.com/furkan94/
 - 📫 How to reach me: https://tr.linkedin.com/in/furkan-ekinci-a21638232?trk=people-guest_people_search-card
