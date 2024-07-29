@@ -52,13 +52,13 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Furkan2001" target="_blank">
+<a href="https://github.com/Furkan2001" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://tr.linkedin.com/in/furkan-ekinci-a216338232" target="_blank">
+<a href="https://tr.linkedin.com/in/furkan-ekinci-a216338232" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@furkanekinci4128" target="_blank">
+<a href="https://www.youtube.com/@furkanekinci4128" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
