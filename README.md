@@ -1,7 +1,8 @@
 ### **<div align="center">I am Furkan, a student computer engineering student(4/4) at Gebze Technical University 👨‍💻 </div>**  
-  
 
-- 🔭 I have worked at [Next4biz](https://www.next4biz.com) as intern  
+- 🔭 I am working at [Next4biz](https://www.next4biz.com) as Part Time Software Developer  
+
+- 🌱 I have worked at [Next4biz](https://www.next4biz.com) as intern  
   
 
 - 🌱 I have worked at [Hesap Doktoru](https://hesapdoktoru.com.tr/)  
