@@ -7,7 +7,7 @@
 - 🌱 I have worked at [Next4biz](https://www.next4biz.com) as Backend Developer Intern  
   
 
-- 🌱 I have worked at [Hesap Doktoru](https://hesapdoktoru.com.tr/)  
+- 🌱 I have worked at [Hesap Doktoru](https://hesapdoktoru.com.tr/) as Full Stack Developer Intern
   
 
 <br/>  
